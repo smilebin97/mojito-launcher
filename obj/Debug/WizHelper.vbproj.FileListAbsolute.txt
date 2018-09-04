@@ -1,0 +1,12 @@
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\bin\Debug\WizHelper.exe.config
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\bin\Debug\WizHelper.exe
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\bin\Debug\WizHelper.pdb
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\bin\Debug\WizHelper.xml
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.fAd.resources
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.fCheck.resources
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.fMain.resources
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.Resources.resources
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.vbproj.GenerateResource.Cache
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.exe
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.xml
+C:\Users\백성빈\Documents\PRI_MS\VB.NET Project\WizHelper\WizHelper\obj\Debug\WizHelper.pdb
